@@ -1,0 +1,9 @@
+1st container has two parts 
+	1) Your Name is <h1> and apply color background to it
+	2) Links is <ul>: display
+
+2nd container has two parts and apply color bacground to it
+	container A: About Me and apply green text color to it, <img>, <p>
+	container B: Connect Me and apply green text color to it, <a href>
+
+3rd container has one part and apply color background and border to it
